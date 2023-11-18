@@ -1,4 +1,16 @@
 ### Hi there 👋
+### I'm Msc Statistics graduate.
+
+### 💻 What I'm Exploring:
+Python Enthusiast
+SQL Explorer
+Data Detective
+
+### 🌐 Let's Connect and Learn Together
+
+- 📧 Email: nidhishajain08@gmail.com
+- LinkedIn: www.linkedin.com/in/nidhisha-a44b99240
+
 
 <!--
 **Nidhisha08/Nidhisha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
