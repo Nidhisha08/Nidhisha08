@@ -2,9 +2,9 @@
 ### I'm Msc Statistics graduate.
 
 ### 💻 What I'm Exploring:
-Python Enthusiast
-SQL Explorer
-Data Detective
+- Python Enthusiast
+- SQL Explorer
+- Data Detective
 
 ### 🌐 Let's Connect and Learn Together
 
