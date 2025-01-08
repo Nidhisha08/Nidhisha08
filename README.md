@@ -1,10 +1,10 @@
 ### Hi there 👋
-### I'm Msc Statistics graduate.
+### Exicted to learn in new things
 
 ### 💻 What I'm Exploring:
-- Python Enthusiast
-- SQL Explorer
-- Data Detective
+- Market Analysis (Market mix model)
+- Statistics
+- Machine learning
 
 ### 🌐 Let's Connect and Learn Together
 
